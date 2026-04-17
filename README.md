@@ -2,11 +2,11 @@
 <h3 align="center">🚀 Tech & Data Science Enthusiast from Nepal</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Node.js+Backend+Enthusiast;PostgreSQL+Learner;Docker+Explorer;Always+Learning+New+Things+🚀" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Power+BI+Explorer;AI+%26+Machine+Learning+Learner;Python+for+Data+Analysis;Always+Learning+🚀" alt="Typing Animation"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pratik-Kattel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=leosum1t&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 
@@ -28,11 +28,9 @@
 
 ### 📚 Currently Learning  
 
-- Advanced **Flutter** (State Management & Animations)  
-- Backend development using **Node.js & Express**  
-- **TypeScript** for scalable backend  
-- Database design with **PostgreSQL**  
-- Containerizing apps with **Docker**  
+- ⚛️ Beginner in **React.js**  
+- ☕ Learning **Java**  
+- 🐬 Working with **MySQL** (MySQL Workbench)  
 
 ---
 
