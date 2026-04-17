@@ -35,9 +35,14 @@
 ---
 ### 💻 Tech Stack
 <p align="center">
-     <img src="https://skillicons.dev/icons?i=java,python,mysql" /> 
+  <img src="https://skillicons.dev/icons?i=java,python,mysql" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Canvas-JS-000000?style=for-the-badge" />
+</p>
 ---
 
 ### 🛠️ Tools
