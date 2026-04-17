@@ -33,6 +33,17 @@
 - 🐬 Working with **MySQL** (MySQL Workbench)  
 
 ---
+### 💻 Tech Stack
+<p align="center">
+     <img src="https://skillicons.dev/icons?i=java,python,mysql" /> 
+</p>
+
+---
+
+### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,idea" />
+</p>
 
 ### 📊 GitHub Stats  
 
