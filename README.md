@@ -34,15 +34,6 @@
 
 ---
 
-### 💻 Tech Stack  
-
-
-
-### 🛠️ Tools  
-
-
-
-
 ### 📊 GitHub Stats  
 
 <p align="center">
