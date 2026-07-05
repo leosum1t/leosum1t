@@ -17,7 +17,7 @@
 ---
 
 ### 🧠 About Me  
-
+- 💼 Serving as a **Junior Frontend Intern** at **Sajilo Software Solution**
 - 🎓 Student passionate about data and real-world problem solving  
 - 📊 Exploring **Power BI** for data visualization and insights  
 - 🤖 Learning **AI & Machine Learning** fundamentals  
