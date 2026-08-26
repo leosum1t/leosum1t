@@ -33,23 +33,37 @@
 - 🐬 Working with **MySQL** (MySQL Workbench)  
 
 ---
-### 💻 Tech Stack
+---
+
+<h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,typescript" />
 </p>
 
+<h3 align="center">Frontend Development</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Canvas-000000?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-
-### 🛠️ Tools
+<h3 align="center">Backend Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=django" />
 </p>
 
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<h3 align="center">Development Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
+
+<h3 align="center">Deployment</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</p>
 ### 📊 GitHub Stats  
 
 <p align="center">
