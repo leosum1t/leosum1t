@@ -64,11 +64,11 @@
   <img src="https://skillicons.dev/icons?i=vercel" />
 </p>
 
-📊 GitHub Stats  
+### 📊 GitHub Stats  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leosum1t&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
-  &nbsp;
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leosum1t&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=leosum1t&theme=tokyonight&border_radius=10&cache_seconds=86400" alt="GitHub Streak" />
 </p>
 
 ### 🌐 Connect With Me  
